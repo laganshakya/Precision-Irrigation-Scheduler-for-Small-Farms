@@ -1,0 +1,10 @@
+# Binaries and object files
+*.exe
+*.o
+*.obj
+*.out
+
+# Debugging and IDE files
+.vscode/
+.idea/
+*.dSYM/
